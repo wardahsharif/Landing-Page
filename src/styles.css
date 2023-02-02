@@ -1,0 +1,207 @@
+ h1 {
+     text-align: center;
+     font-size: 90px;
+     font-style: oblique;
+     line-height: 60px;
+
+
+
+ }
+
+
+
+
+
+ h2 {
+     text-align: center;
+     font-size: 30px;
+     font-style: italic;
+     margin: 40px;
+     letter-spacing: 5px;
+
+
+
+ }
+
+ h3 {
+     text-align: center;
+     font-size: 25px;
+     text-decoration: underline;
+
+     padding: 10px;
+     margin: 0 auto;
+ }
+
+ h4 {
+     text-align: left;
+     text-decoration: underline;
+     margin: 20px 30px;
+
+
+ }
+
+
+
+
+
+ img {
+     margin: 5px;
+     float: left;
+     margin-right: 10px;
+
+
+ }
+
+ .image-row {
+     display: flex;
+     justify-content: left;
+     flex-wrap: wrap;
+     float: left;
+     border-radius: 50px;
+ }
+
+ p {
+     text-align: center;
+     font-size: 20px;
+     font-style: normal;
+     font-family: "Times New Roman", Times, serif;
+
+
+
+ }
+
+ .moreinfo {
+     display: block;
+     text-align: center;
+     font-size: 20px;
+     font-style: italic;
+     font-weight: bold;
+     padding: 20px;
+     margin: 0 auto;
+
+
+ }
+
+ button {
+     display: block;
+     margin: 30px auto;
+     padding: 30px;
+     font-size: 18px;
+     font-family: Arial, Helvetica, sans-serif;
+     color: black;
+     background-color: rgb(212, 204, 204);
+     border: solid 1px;
+     padding: 20px 30px;
+     margin: 30px auto;
+     border-color: rgb(233, 218, 247);
+     cursor: pointer;
+     box-shadow: 2px 4px 4px rgb(214, 186, 186);
+     border-radius: 100px;
+     transition: 200ms;
+ }
+
+ button:hover {
+     color: rgb(0, 0, 0);
+     background-color: rgb(199, 174, 174);
+     border-color: white;
+ }
+
+ .coder {
+     text-align: center;
+     font-size: 20px;
+ }
+
+ .container {
+     background: white;
+
+     margin: 0 auto;
+     max-width: 1000px;
+     padding: 1px 200px;
+
+
+ }
+
+ ul {
+     text-decoration: none;
+     list-style: none;
+     text-align: center;
+     background-color: black;
+     color: white;
+     padding: 10px;
+
+ }
+
+ li {
+     display: inline;
+     margin: 70px;
+     cursor: pointer;
+     font-size: 18px;
+     font-weight: light;
+     transition: 200ms;
+ }
+
+ li:hover {
+     color: white;
+     background-color: rgb(199, 174, 174);
+ }
+
+ body {
+     background-color: rgb(199, 174, 174);
+
+
+ }
+
+ .formContainer {
+     text-align: center;
+     background-color: rgb(199, 174, 174);
+     padding: 5px;
+
+ }
+
+ .signup {
+     text-align: center;
+     font-size: 28px;
+     padding: 10px;
+     background-color: rgb(199, 174, 174);
+ }
+
+ span {
+     font-size: 20px;
+     background-color: rgb(199, 174, 174);
+ }
+
+ label {
+     font-size: 18px;
+ }
+
+ .quote-image {
+
+
+
+     display: -webkit-box;
+     margin: 30 auto;
+     padding: 45px;
+     display: left;
+
+
+
+
+
+
+
+ }
+
+ .represent {
+     text-align: left;
+     margin: 20px;
+
+ }
+
+ .represent,
+ h4 {
+
+     max-width: 1000px;
+     margin-top: 20 auto;
+     padding: 10px;
+
+ }
